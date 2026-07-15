@@ -9,7 +9,7 @@ NBA player statistics contain thousand of record, making it difficult to identif
 This dashboard help users make data-driven decision by providing interactive analysis of player performance, team performance, and shooting efficiency.
 
 ### Player Performance Analysis
-![Player Dashboard](Players%20Performance%20Analysis%20Dashboard.png)
+![Player Dashboard](Players-Dashboard.png)
 - Total Player
 - Total Points
 - Average Points
@@ -20,7 +20,7 @@ This dashboard help users make data-driven decision by providing interactive ana
 - Age Vs Points Analysis 
 
 ### Team Performance Analysis 
-![Team Dashboard](Team%20Analysis%20Dashboard.png)
+![Team Dashboard](Team-Dashboard.png)
 - Team Performance
 - Rebound Efficiency
 - Average FG%
@@ -28,7 +28,7 @@ This dashboard help users make data-driven decision by providing interactive ana
 - 2P vs 3P Analysis
   
 ### Shooting & Efficiency Analysis 
-![Shooting Dashboard](Shooting%20%26%20Efficiency%20Analysis%Dashboard.png)
+![Shooting Dashboard](Shooting-Dashboard.png)
 - FG% 
 - eFG%
 - FT%
