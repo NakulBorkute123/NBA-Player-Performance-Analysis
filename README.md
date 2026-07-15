@@ -29,7 +29,7 @@ This dashboard help users make data-driven decision by providing interactive ana
   
 ### Shooting & Efficiency Analysis 
 ![Shooting Dashboard](Shooting%20%26%20Efficiency%20Analysis%Dashboard.png)
-- FG%
+- FG% 
 - eFG%
 - FT%
 - 2P%
