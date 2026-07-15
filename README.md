@@ -20,7 +20,7 @@ This dashboard help users make data-driven decision by providing interactive ana
 - Age Vs Points Analysis 
 
 ### Team Performance Analysis 
-![Team Dashboard](Team-Dashboard.png)
+![Team Dashboard](Team-Dashbord.png)
 - Team Performance
 - Rebound Efficiency
 - Average FG%
